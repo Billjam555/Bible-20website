@@ -1,4 +1,5 @@
-# Bible-20websitevm 1.0.3
+# Bible-20websitevm 1.0.4 removed and remove
+added page counter
 King James Audio Bible
 
 Read as you were called
@@ -16,7 +17,9 @@ IUSI4576.MP4
 
 
 
-Kjv.pdf
+
+
+
 
 King James Version Table of Contents
 The King James Version (KJV) of the Bible includes a structured table of contents that allows readers to navigate through its books. Below is a simplified version of the j
@@ -161,6 +164,9 @@ Jude
 Revelation
 
 
-<script type="text/javascript" src="https://counter.websiteout.com/js/1/0/0/0"></script>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=21297834&style=0001&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                                    
+                                   
 
 
