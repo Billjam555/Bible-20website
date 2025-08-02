@@ -1,4 +1,4 @@
- removed and added a page counterv1.0.4
+     removed and added a page counterv1.0.4
 King James Audio Bible
 
 Read as you were called
