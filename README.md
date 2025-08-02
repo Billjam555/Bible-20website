@@ -1,5 +1,4 @@
-# Bible-20websitevm 1.0.4 removed and remove
-added page counter
+ removed and added a page counterv1.0.4
 King James Audio Bible
 
 Read as you were called
