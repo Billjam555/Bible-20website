@@ -1,9 +1,10 @@
-     removed and added a page counterv1.0.4
-King James Audio Bible
+v1.0.0 After many attempts using Google docx then word, i decided to go streight html. i
+it is not perfect but useable.thlough not perfect,i desided to publish, 
+Kinge James Audio Bible
 
 Read as you were called
-
-
+i
+ 
 
 
 OTVJ7893.MP4
